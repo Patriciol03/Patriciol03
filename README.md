@@ -22,7 +22,16 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
 <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI Logo" width="40">
 <img width="12" />
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" alt="microsoftsqlserver logo"  />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" width="38">
+<img width="12" />
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql logo" width="40">
+<img width="12" />
 ---
 
 ## 🎯 Objetivos  
