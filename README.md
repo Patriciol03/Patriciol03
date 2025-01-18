@@ -37,9 +37,10 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
 - Completé cursos en **Data Analytics**, **SQL**, **Power BI** y **Excel avanzado**.  
 
 ---
+ 
+### ⏩ ¿QUERES VER ALGUNOS DE MIS PROYECTOS?: 
 
-## 🚀 Proyectos  
-Explora mis proyectos destacados en mi perfil y descubre cómo aplico mis habilidades en el análisis y la visualización de datos.  
+#### Te invito a visitar mis [Repositorios en GitHub](https://github.com/Patriciol03?tab=repositories)!!
 
 ---
 
