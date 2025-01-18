@@ -33,9 +33,8 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
 ---
 
 ## 📚 Formación  
-- Actualmente cursando una **Licenciatura en Psicología**.  
 - Finalizando una **Tecnicatura en Data Science**.  
-- Completé cursos en **Data Analytics**, **SQL**, y **Excel avanzado**.  
+- Completé cursos en **Data Analytics**, **SQL**, **Power BI** y **Excel avanzado**.  
 
 ---
 
