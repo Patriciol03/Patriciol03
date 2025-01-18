@@ -14,6 +14,16 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
   Siempre busco nuevas tecnologías, técnicas y herramientas para expandir mis conocimientos en análisis de datos.  
 
 ---
+### 💻 STACK TECNOLÓGICO:
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="Power BI Logo" width="40">
+<img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" alt="microsoftsqlserver logo"  />
+
+---
 
 ## 🎯 Objetivos  
 - Perfeccionar mis habilidades en **Python** y sus bibliotecas para análisis de datos (como **Pandas** y **Matplotlib**).  
