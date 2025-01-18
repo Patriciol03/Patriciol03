@@ -32,6 +32,7 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
 <img width="12" />
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql logo" width="40">
 <img width="12" />
+
 ---
 
 ## 🎯 Objetivos  
