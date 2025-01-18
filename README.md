@@ -7,8 +7,8 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
 ---
 
 ## 🌟 Sobre mí  
-- 👨🏻‍💻 **Experiencia laboral** En mi ultimo puesto, me desempeñe como Especialista de operaciones en Siscard SA, con la tarea de coordinar las rutas de proveedores de forma eficiente además de relevar el stock para asegurar el cumplimiento del servicio en el tiempo que demanda el cliente. Adicionalmente he desarrollado paneles de control en Power Bi que ayudaron a la empresa a simplificar las tareas diarias y a tomar decisiones basadas en datos.
-Desde el año 2022, he creado reportes interactivos utilizando **Power BI**, ayudando a convertir datos complejos en insights claros y accionables.  
+- 👨🏻‍💻 En mi ultimo puesto, me desempeñe como Especialista de operaciones en Siscard SA, con la tarea de coordinar las rutas de proveedores de forma eficiente además de relevar el stock para asegurar el cumplimiento del servicio en el tiempo que demanda el cliente. Adicionalmente he desarrollado paneles de control en Power Bi que ayudaron a la empresa a simplificar las tareas diarias y a tomar decisiones basadas en datos.
+- 📊 Desde el año 2022, he creado reportes interactivos utilizando **Power BI**, ayudando a convertir datos complejos en insights claros y accionables.  
 
 ---
 ### 💻 STACK TECNOLÓGICO:
