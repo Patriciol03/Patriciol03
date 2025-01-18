@@ -32,12 +32,6 @@ Me apasiona transformar datos en información útil que impulse la toma de decis
 
 ---
 
-## 🎯 Objetivos  
-- Perfeccionar mis habilidades en **Python** y sus bibliotecas para análisis de datos (como **Pandas** y **Matplotlib**).  
-- Desarrollar proyectos innovadores que resalten el impacto del análisis de datos en la resolución de problemas reales.  
-
----
-
 ## 📚 Formación  
 - Actualmente cursando una **Licenciatura en Psicología**.  
 - Finalizando una **Tecnicatura en Data Science**.  
