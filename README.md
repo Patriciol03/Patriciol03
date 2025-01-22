@@ -2,7 +2,7 @@
     <img src="https://github.com/Patriciol03/Patriciol03/blob/main/Hola!.gif" alt="Descripción del GIF" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 
-# 👋 ¡Hola! Soy Pato  
+<h2 align="center">👋 ¡Hola! Soy Pato  </h2>
 
 ### 📊 Analista de Datos en Formación Continua  
 
