@@ -6,8 +6,7 @@
 
 <h3 align="center">📊 Analista de Datos en Formación Continua  </h3>
 
-<h4 align="center"> ✨ **Me apasiona transformar datos** 📊 en información útil 📈 que impulse la toma de decisiones ✅.
-🚀 Estoy comprometido con mejorar mis habilidades 📚 y aportar valor 💡 a través del análisis 🔍 y la visualización de datos 🎨. </h4>
+<h4 align="center"> ✨ **Me apasiona transformar datos** en información útil 📈 que impulse la toma de decisiones ✅. Estoy comprometido con mejorar mis habilidades y aportar valor 💡 a través del análisis y la visualización de datos 🎨. </h4>
 
 ## 🌟 Sobre mí  
 - 👨🏻‍💻 En mi ultimo puesto, me desempeñe como Especialista de operaciones en Siscard SA, con la tarea de coordinar las rutas de proveedores de forma eficiente, además de relevar el stock para asegurar el cumplimiento del servicio en el tiempo que demanda el cliente. Adicionalmente he desarrollado paneles de control en Power Bi que ayudaron a la empresa a simplificar las tareas diarias y a tomar decisiones basadas en datos.
