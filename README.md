@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Patriciol03/Patriciol03/blob/main/Hola!%20(1).gif" alt="Descripción del GIF" style="width: 100%; max-width: 800px; height: auto;">
+    <img src="https://github.com/Patriciol03/Patriciol03/blob/main/Hola!.gif" alt="Descripción del GIF" style="width: 100%; max-width: 800px; height: auto;">
 </p>
 
 # 👋 ¡Hola! Soy Pato  
